@@ -1,10 +1,8 @@
 
 # Hello, I'm Arslan
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arslan-akbulat-b6287120a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a graduate who has tried many things in his life and realized that leveling up in every respect is the most interesting thing for me. This is where I discovered my passion for IT and I try to improve myself a little every day, learn and have an influence on it in the future
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
