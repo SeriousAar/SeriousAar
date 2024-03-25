@@ -97,10 +97,13 @@ My interest in computer science has led me to develop a passion for cybersecurit
 
 ## Projects
 - <a href="https://github.com/SeriousAar/Detection-Lab/tree/main">Detection Lab</a>
+- <a href="https://github.com/SeriousAar/Programming">Programming</a>
 
 
 
-### Github Profile counter
-<div>
-    <img src="https://komarev.com/ghpvc/?username=SeriousAar" />
-</div>
+### Profile Views Counter
+
+![Profile Views](https://komarev.com/ghpvc/?username=SeriousAar&color=brightgreen&style=flat-square)
+
+
+
