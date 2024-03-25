@@ -29,6 +29,7 @@ My interest in computer science has led me to develop a passion for cybersecurit
 | Incident Response Planning and Execution            | <a href="https://github.com/SeriousAar/Detection-Lab/tree/main">Detection Lab</a>|
 | Case Management with TheHive                        | <a href="https://github.com/SeriousAar/Detection-Lab/tree/main">Detection Lab</a>|
 | Scripting and Automation for Threat Mitigation      | <a href="https://github.com/SeriousAar/Detection-Lab/tree/main">Detection Lab</a>|
+| Programming via Python                              | <a href="https://github.com/SeriousAar/Programming">Programming</a>|
 
 
 ## Language and Tools Overall 🛠
